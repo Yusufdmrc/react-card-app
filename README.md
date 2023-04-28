@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+Footballer card project I created using React and mantine UI
 
 demo:https://yusufdmrc-react-card-app.netlify.app/
 
