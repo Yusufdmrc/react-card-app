@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# REACT-CARD-APP
 
 Footballer card project I created using React and mantine UI
 
